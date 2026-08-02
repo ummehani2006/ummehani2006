@@ -2,105 +2,105 @@
 
 <img src="./assets/banner.png" alt="Banner" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;AI%2FML+Enthusiast;Co-Founder+%40+DevIgnite+Studio;BS+Artificial+Intelligence+Student;Building+Real+Products%2C+Not+Just+Code" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:00C896&height=120&section=header"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Developer;AI+%2F+ML+Enthusiast;Co-Founder+%40+DevIgnite+Studio;Building+Real%2C+Functional+Products" alt="Typing SVG" />
 
 <img src="https://img.shields.io/badge/Freelance-Web%20Developer-6C63FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI-Enthusiast-00C896?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Diploma-Web%20Development-FF8C42?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Karachi-Pakistan-3B82F6?style=for-the-badge"/>
 
 </div>
 
-# 👋 Hi, I'm Umm-e-Hani
+# Umm-e-Hani
 
-**Full Stack Web Developer | AI/ML Enthusiast**
-📍 Karachi, Pakistan &nbsp;|&nbsp; 📧 hanikamal700@gmail.com &nbsp;|&nbsp; 🌐 [Portfolio](https://ummehani2006.github.io/portfolios)
+**Full Stack Web Developer · AI/ML Enthusiast**
+📍 Karachi, Pakistan &nbsp;·&nbsp; 📧 hanikamal700@gmail.com &nbsp;·&nbsp; 📞 +92 309 2461696 &nbsp;·&nbsp; 🌐 [Portfolio](https://ummehani2006.github.io/portfolios)
 
-Detail-oriented Full Stack Web Developer with hands-on experience across front-end, back-end, and AI-powered application development. Delivered real client projects including a worldwide car booking platform and a fully functional e-commerce store, and independently built **ExamMate AI** — an AI-powered exam preparation web app with ML-based analytics and NLP capabilities. Currently expanding full-stack and AI/ML skills through a Diploma in Web Development at Aptech Learning and a BS in Artificial Intelligence at SSUET.
+Detail oriented Full Stack Developer with hands-on experience across front-end, back-end, and AI-powered application development. Delivered real client projects including a worldwide car booking platform and a fully functional e-commerce store, and independently built **ExamMate AI** an AI-powered exam prep platform with ML-based analytics and NLP. Currently deepening full-stack and AI/ML skills through a Diploma in Web Development at Aptech Learning and a BS in Artificial Intelligence at SSUET.
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
 
 ---
 
-## 💼 Work Experience
+## 💼 Experience
 
 ### Freelance Web Developer & Project Coordinator
-**Self-Employed | Karachi, Pakistan** &nbsp;·&nbsp; *Oct 2024 – Present*
+**Self-Employed · Karachi, Pakistan** &nbsp;|&nbsp; *Oct 2024 – Present*
 
-- Designed and developed fully responsive websites using HTML5, CSS3, JavaScript, and PHP, ensuring cross-browser compatibility and mobile-first design
-- Delivered a worldwide car booking platform (team project, 1.5 months) — global car browsing by country, online booking, PDF booking download, second-hand car marketplace (PHP + MySQL)
-- Delivered a fully functional e-commerce store (team project, 1 month) for a fashion & beauty brand — WordPress + WooCommerce with product listings, cart, and checkout
-- Designed all UI/UX layouts from scratch with a focus on clean design and performance
-- Managed project timelines and client milestones using Trello
-- Handled client communication and revisions professionally
+- Designed and developed fully responsive websites with HTML5, CSS3, JavaScript, and PHP — cross-browser, mobile-first
+- Delivered a **worldwide car booking platform** (team project) — global browsing by country, online booking, PDF confirmations, second-hand marketplace (PHP + MySQL)
+- Delivered a **fashion & beauty e-commerce store** (team project) on WordPress + WooCommerce — full listings, cart, checkout
+- Designed all UI/UX layouts from scratch with a focus on clean, intuitive design
+- Managed timelines and client milestones via Trello; handled client communication end-to-end
 
-### Sales Representative (Internship)
-**IJK Media | Karachi, Pakistan** &nbsp;·&nbsp; *Nov 2025 – Jan 2026*
+### Sales Representative — Internship
+**IJK Media · Karachi, Pakistan** &nbsp;|&nbsp; *Nov 2025 – Jan 2026*
 
-- Engaged with potential clients, communicating service offerings clearly and persuasively
-- Built strong communication, negotiation, and follow-up skills in a fast-paced environment
-- Gained experience in client relationship management and sales pipeline coordination
+- Communicated service offerings to potential clients clearly and persuasively
+- Built negotiation, follow-up, and client relationship management skills in a fast-paced setting
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
 **Front-End**
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white"/>
-</p>
+<p><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,materialui" /></p>
+
+`HTML5 / CSS3` ![](https://progress-bar.dev/95/?color=7C3AED)
+`JavaScript / TypeScript` ![](https://progress-bar.dev/85/?color=7C3AED)
+`React.js` ![](https://progress-bar.dev/75/?color=7C3AED)
+`Responsive & UI/UX Design` ![](https://progress-bar.dev/90/?color=7C3AED)
 
 **Back-End**
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-</p>
+<p><img src="https://skillicons.dev/icons?i=python,flask,php,nodejs,cs,dotnet,mysql,mongodb" /></p>
+
+`PHP / MySQL` ![](https://progress-bar.dev/90/?color=00C896)
+`Python / Flask` ![](https://progress-bar.dev/80/?color=00C896)
+`ASP.NET Core / C#` ![](https://progress-bar.dev/75/?color=00C896)
+`Node.js / MongoDB` ![](https://progress-bar.dev/65/?color=00C896)
+`RESTful API Integration` ![](https://progress-bar.dev/85/?color=00C896)
 
 **AI / Machine Learning**
 <p>
+<img src="https://skillicons.dev/icons?i=py" />
 <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
 <img src="https://img.shields.io/badge/Groq%20API-F55036?style=flat-square"/>
 <img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat-square"/>
-<img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat-square"/>
-<img src="https://img.shields.io/badge/ML%20Analytics-00C896?style=flat-square"/>
 </p>
 
-**CMS, Tools & Platforms**
-<p>
-<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
-<img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white"/>
-</p>
+`AI API Integration (Gemini, Groq, Claude)` ![](https://progress-bar.dev/85/?color=FF8C42)
+`NLP-based Feature Development` ![](https://progress-bar.dev/70/?color=FF8C42)
+`ML-based Analytics` ![](https://progress-bar.dev/70/?color=FF8C42)
+
+**CMS & E-Commerce**
+<p><img src="https://skillicons.dev/icons?i=wordpress" /></p>
+
+`WordPress / WooCommerce` ![](https://progress-bar.dev/85/?color=3B82F6)
+`SEO Basics` ![](https://progress-bar.dev/60/?color=3B82F6)
+
+**Tools & Platforms**
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,trello" /></p>
+
+**Soft Skills**
+
+`Communication` `Teamwork` `Time Management` `Project Management` `Client Handling` `Agile Basics` `Problem Solving`
+
+**Languages** — Urdu (Native) · English (Professional Working Proficiency)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 [ExamMate AI — AI-Powered Exam Preparation Platform](#)
+### 🤖 ExamMate AI — AI-Powered Exam Preparation Platform
 `Python` `Flask` `Gemini API` `Groq API` `Machine Learning` `NLP`
-- Full-stack AI web app integrated with Gemini and Groq APIs for intelligent exam preparation
+- Full-stack AI web app integrated with Gemini and Groq APIs for intelligent exam prep
 - Automated MCQ generation, past paper solving, AI-based notes summarization, ML-driven performance analytics
-- Adaptive quiz logic with API fallback architecture (Groq primary, Claude Haiku fallback) for high reliability
+- Adaptive quiz logic with API fallback architecture (Groq primary, Claude Haiku fallback) for reliability
 
 ### 🚗 Worldwide Car Booking Platform — *Client Project*
 `HTML5` `CSS3` `JavaScript` `PHP` `MySQL`
-- Global car browsing by country, online booking system, PDF booking download, second-hand car marketplace
+- Global car browsing by country, online booking system, PDF booking confirmation, second-hand car marketplace
 
 ### 🛍️ E-Commerce Fashion & Beauty Store — *Client Project*
 `WordPress` `WooCommerce` `HTML5` `CSS3`
@@ -130,11 +130,11 @@ Detail-oriented Full Stack Web Developer with hands-on experience across front-e
 
 ## 🎓 Education & Certifications
 
-| | |
-|---|---|
-| **BS Artificial Intelligence** — SSUET | *In Progress* |
-| **Diploma in Web Development** — Aptech Learning | *2024 – Present* |
-| **Intermediate (Pre-Medical)** — Private Board | *2025 – 2026* |
+| Qualification | Institute | Status |
+|---|---|---|
+| **BS Artificial Intelligence** | Sir Syed University of Engineering & Technology (SSUET) | In Progress |
+| **Diploma in Web Development** | Aptech Learning | In Progress |
+| **Intermediate (Pre-Medical)** | Private Board | 2025 – 2026 |
 
 **Certifications**
 - Basics of Python Programming — UniAthena (UK), 2025
@@ -159,18 +159,10 @@ Detail-oriented Full Stack Web Developer with hands-on experience across front-e
 ## 📫 Connect With Me
 
 <p align="center">
-<a href="https://github.com/ummehani2006">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://linkedin.com/in/YOURPROFILE">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="mailto:hanikamal700@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-<a href="https://ummehani2006.github.io/portfolios">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<a href="https://github.com/ummehani2006"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://www.linkedin.com/in/umm-e-hani-a28851403?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:hanikamal700@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/></a>
+<a href="https://ummehani2006.github.io/portfolios"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
-<p align="center"><i>📞 +92 309 2461696</i></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C896,100:7C3AED&height=100&section=footer"/>
