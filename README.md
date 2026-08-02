@@ -1,76 +1,85 @@
-<h1 align="center">Hi 👋, I'm Umm-e-hani</h1>
-<h3 align="center">Full Stack Web Developer | AI/ML Enthusiast | Karachi, Pakistan</h3>
-
 <p align="center">
-  Building real, functional products across front-end, back-end, and AI-powered applications.
+  <img src="./assets/banner.png" alt="Banner" width="100%"/>
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Co-Founder+%40+DevIgnite+Studio;Full+Stack+Web+Developer;BS+Artificial+Intelligence+Student;Building+AI-Powered+Web+Applications;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
+</p>
 
-### 🧑‍💻 About Me
+<p align="center">
+  <img src="https://img.shields.io/badge/Co--Founder-DevIgnite%20Studio-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/BS-Artificial%20Intelligence-00C896?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Diploma-Web%20Development-FF8C42?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Location-Karachi,%20Pakistan-3B82F6?style=for-the-badge"/>
+</p>
 
-- 🎓 Pursuing a **Diploma in Web Development** at Aptech Learning
-- 🎓 Pursuing a **BS in Artificial Intelligence** at SSUET
-- 💼 Freelance Web Developer & Project Coordinator — delivering real client projects
-- 🤖 Building **ExamMate AI**, an AI-powered exam prep platform (Flask + Gemini + Groq)
-- 🌱 Currently deepening my full-stack and AI/ML skills
-- 📫 Reach me at **hanikamal700@gmail.com**
+<h1 align="center">Hi 👋, I'm Umm-e-Hani</h1>
 
----
+<h3 align="center">
+Co-Founder @ DevIgnite Studio • Full Stack Web Developer • AI/ML Enthusiast
+</h3>
 
-### 🛠️ Tech Stack
+<p align="center">
+Building scalable web applications and intelligent AI-powered solutions with modern technologies.
+</p>
 
-**Front-End**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
+</p>
 
-**Back-End**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+## 🧑‍💻 About Me
 
-**Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+- 🎓 BS Artificial Intelligence — SSUET
+- 📜 Diploma in Web Development — Aptech Learning
+- 💼 Co-Founder — DevIgnite Studio (freelance design & development)
+- 💻 Full Stack Web Developer (PHP, WordPress, ASP.NET Core)
+- 🤖 Exploring AI • Machine Learning • Automation
+- 🌍 Based in Karachi, Pakistan
 
-**AI / Machine Learning**
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat&logo=google&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_API-F55036?style=flat)
-![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat)
+## 🛠️ Tech Stack
 
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
+<p align="left">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+</p>
 
----
+## 🚀 Featured Projects
 
-### 🚀 Featured Projects
+| Project | Description |
+|---|---|
+| **Artora** | Front-end art gallery platform (HTML/CSS/JS) — exhibited at Aptech |
+| **ExamMate AI** | Flask-based AI exam prep app using Gemini & Groq APIs, MCQ generation, notes summarization |
+| **Car Booking System** | Client project built with PHP & MySQL |
+| **Fashion E-commerce Store** | Built on WordPress/WooCommerce for a client |
+| **Art Gallery Management System** | ASP.NET Core + SQL Server |
+| **Dental Clinic & Hotel Booking Websites** | Client web platforms |
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| **[ExamMate AI](#)** | AI-powered exam prep platform with MCQ generation, past paper solving & ML analytics | Flask, Gemini API, Groq API |
-| **Worldwide Car Booking Platform** | Global car browsing & booking platform with PDF confirmations | PHP, MySQL, JS |
-| **E-Commerce Fashion & Beauty Store** | Full online store with cart, checkout & product management | WordPress, WooCommerce |
-| **Art Gallery Management System** | Enterprise app for managing gallery inventory & exhibitions | ASP.NET Core, C#, SQL Server |
-| **[DevIgnite Studio](#)** | My digital agency's portfolio & service showcase | HTML5, CSS3, JS |
+## 📊 GitHub Stats
 
----
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical" width="48%"/>
+</p>
 
-### 📫 Connect with me
+## 📫 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-hanikamal700%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hanikamal700@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00ff88?style=flat)](https://ummehani2006.github.io/portfolios)
+<p align="center">
+<a href="https://github.com/USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://linkedin.com/in/YOURPROFILE">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:hanikamal700@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
 
----
-
-<p align="center"><i>Open to freelance projects, internships & full-time opportunities.</i></p>
