@@ -12,7 +12,7 @@
 
 </div>
 
-# Umm-e-Hani
+# Welcome 
 
 **Full Stack Web Developer · AI/ML Enthusiast**
 📍 Karachi, Pakistan &nbsp;·&nbsp; 📧 hanikamal700@gmail.com &nbsp;·&nbsp; 📞 +92 309 2461696 &nbsp;·&nbsp; 🌐 [Portfolio](https://ummehani2006.github.io/portfolios)
@@ -162,7 +162,7 @@ Detail oriented Full Stack Developer with hands-on experience across front-end, 
 <a href="https://github.com/ummehani2006"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
 <a href="https://www.linkedin.com/in/umm-e-hani-a28851403?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
 <a href="mailto:hanikamal700@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/></a>
-<a href="https://ummehani2006.github.io/portfolios"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://ummehani2006.github.io/portfolio-"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C896,100:7C3AED&height=100&section=footer"/>
