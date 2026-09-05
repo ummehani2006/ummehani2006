@@ -132,7 +132,7 @@ Detail oriented Full Stack Developer with hands-on experience across front-end, 
 
 | Qualification | Institute | Status |
 |---|---|---|
-| **BS Artificial Intelligence** | Sir Syed University of Engineering & Technology (SSUET) | In Progress |
+| **Data Science** | Sir Syed University of Engineering & Technology (SSUET) | In Progress |
 | **Diploma in Web Development** | Aptech Learning | In Progress |
 | **Intermediate (Pre-Medical)** | Private Board | 2025 – 2026 |
 
